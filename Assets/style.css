@@ -1,0 +1,67 @@
+/* Style sheet for Navbar/index/contact/portfolio pages */
+
+* {
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+/* Navbar */
+#navbar{
+    background: white;
+    border-bottom: #666666;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+}
+
+/* Nameplate */
+h1{
+    color: white;
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: auto 0;
+    padding: 5px;
+    max-width: 200px;
+}
+
+
+/* Body */
+body {
+    background: #666666;
+    background-image: url(../Assets/images/greek-vase.png);
+    height: 100%;
+}
+    
+    /* Content Container */
+#content{
+    background: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+ 
+    /* Subsection Heading */
+h2 {
+    color: #4aaaa5;
+}
+
+    /* Image parameters */
+#bio-image {
+    height: 225px;
+    width: 175px;
+    float: left;
+    margin-right: 15px;
+}
+  
+  /* Footer Specs */
+#footer {
+    height: 60px;
+    background: #666666;
+    padding: 20px;
+    clear: both;
+    text-align: center;
+    color: white;
+    border-top: solid 5px #4aaaa5;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+  }
+  
