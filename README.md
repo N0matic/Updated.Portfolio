@@ -15,10 +15,13 @@ https://n0matic.github.io/Updated.Portfolio.io/
 ## Screenshots
 
 About Page:
-<img src="assets/images/About.png" width="300px">  
+
+<img src="../Updated.Portfolio.io/Assets/images/About.png" width="300px">  
 
 Contact Page:
-<img src="assets/images/Contact.png" width="300px">  
+
+<img src="../Updated.Portfolio.io/Assets/images/Contact.png" width="300px">  
 
 Portfolio Page:
-<img src="assets/images/Portfolio.png" width="300px">  
+
+<img src="../Updated.Portfolio.io/Assets/images/Portfolio.png" width="300px">  
