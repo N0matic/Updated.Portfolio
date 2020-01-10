@@ -92,6 +92,11 @@ h2 {
     justify-content: space-evenly;
 }
 
+    /* Nav Links */
+a {
+    color: white;
+}
+
 .box {
     position: relative;
     width: 200px;  
@@ -101,18 +106,25 @@ h2 {
     background-size: 200px 150px;
   }
 
+  /*********************************************/
   /* Box Images */
+  /*********************************************/
+
+  /* Password Generator */
 #box1{
-    background-image: url(../Assets/images/hangman.jpg);
+    background-image: url(../Assets/images/PGen.png);
 }
+  /* Javascript Quiz */
 #box2{
-    background-image: url(../Assets/images/dice_game.jpg);    
+    background-image: url(../Assets/images/Quiz.png);    
 }
+  /* Day Planner */
 #box3{
-    background-image: url(../Assets/images/Trivia.jpg);    
+    background-image: url(../Assets/images/DayPlanner.png);    
 }
+  /* ATX Now */
 #box4{
-    background-image: url(../Assets/images/info.jpg);    
+    background-image: url(../Assets/images/ATX_Now.png);    
 }
 #box5{
     background-image: url(../Assets/images/RPS.png);    
