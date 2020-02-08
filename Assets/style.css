@@ -127,8 +127,12 @@ a {
     background-image: url(../Assets/images/ATX_Now.png);    
 }
 #box5{
-    background-image: url(../Assets/images/RPS.png);    
+    background-image: url(../Assets/images/note_taker.png);    
 }
+#box6{
+  background-image: url(../Assets/images/employee_database.png);    
+}
+
 
 .title{
     position: absolute;
